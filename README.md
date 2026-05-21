@@ -1,11 +1,11 @@
 # Final Destination – Travel Booking Application
 
-## 📌 Project Overview
+##  Project Overview
 **Final Destination** is a travel booking application developed using Flutter. This application helps users search travel packages, book trips, manage bookings, make payments, and provide reviews or feedback. The system provides an easy and user-friendly travel booking experience.
 
 ---
 
-## ✨ Features
+## Features
 - User Registration & Login
 - Forgot Password using OTP
 - Search Travel Packages
@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Front End
 - Flutter
@@ -48,7 +48,7 @@
 
 ---
 
-## 📂 Main Modules
+##  Main Modules
 - Login & Registration
 - Forgot Password
 - Package Search
