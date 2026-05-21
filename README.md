@@ -42,7 +42,7 @@ Final Destination is a modern Flutter-based travel platform designed to simplify
 
 ---
 
-•💻 Programming Languages
+• Programming Languages
 - Dart
 - Python
 
